@@ -1,8 +1,6 @@
-# React + Vite
+# Exercício de Front / Web-Dev
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Objetivo: Fazer um site com um SideBar para navegar entre as páginas Home, Cadastro e Resultados(Gráficos)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![alt text](image.png)
