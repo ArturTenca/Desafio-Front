@@ -6,20 +6,17 @@ export default function Side(){
         <Sidebar
         
         rootStyles={{[`.${sidebarClasses.container}`]:{
-            backgroundColor: 'green', color:'#000'
+            backgroundColor: 'red', color:'#000'
         }}}
 
         >
             <Menu>
                 <SubMenu label="Dashboard">
                     <MenuItem component={<Link to="/" />}>Home</MenuItem>
-                    <MenuItem component={<Link to="/exemplo1"/>}>Exemplo1</MenuItem>
-                    <MenuItem component={<Link to="exemplo2"/>}>Exemplo2</MenuItem>
+                    <MenuItem component={<Link to="/Cadastro"/>}>Cadastro</MenuItem>
+                    <MenuItem component={<Link to="/Resultado"/>}>Resultados</MenuItem>
                 </SubMenu>
-                <SubMenu label="Items">
-                    <MenuItem>Exemplo1</MenuItem>
-                    <MenuItem>Exemplo2</MenuItem>
-                </SubMenu>
+                
              </Menu>
                     
         </Sidebar>
