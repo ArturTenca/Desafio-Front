@@ -1,4 +1,4 @@
-# Exercício de Front / Web-Dev
+# Desafio de Web-Dev
 
 Objetivo: Fazer um site com um SideBar para navegar entre as páginas Home, Cadastro e Resultados(Gráficos)
 
